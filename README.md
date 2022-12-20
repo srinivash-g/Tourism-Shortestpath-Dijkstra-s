@@ -5,11 +5,14 @@
 
 -And also Description of those tourist places.
 
+-Tourism.cpp is the code file
+
+
 Concepts used:
-*Graph
-*Heap
-*Hash
-*Files
+-Graph
+-Heap
+-Hash
+-Files
 
 
 
